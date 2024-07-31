@@ -1,0 +1,6 @@
+@WeapoonShop_HostAddress = http://localhost:5039
+
+GET {{WeapoonShop_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
